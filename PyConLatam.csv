@@ -1,13 +1,13 @@
 Charla;Ponentes;Tipo de charla;Turno preferido;Duración;Dias posibles
 “Phyton: Python para fisica”;Carlangas;Conferencia;tarde;45;jueves, viernes, sábado
 “Introducción a Pandas”;Juanito;Taller;mediodía;60;viernes, sábado
-“Quantum Machine Learning con Python”;Seth Lloyd;Taller;mañana;60;sábado
+“Quantum Machine Learning con Python”;Seth Lloyd;Taller;mañana;60;jueves, sábado
 “Buenas prácticas con NumPy”;Carlangas;Taller;mediodía;30;jueves, viernes, sábado
 “Mejores prácticas con NumBa”;Carlangas;Taller;tarde;30;jueves, viernes, sábado
-“¿Es python una buena idea para el cómputo ciencítifico?;Seth Lloyd, Carlangas;Mesa Redonda;tarde;90;sábado
+“¿Es python una buena idea para el cómputo ciencítifico?;Seth Lloyd, Carlangas;Mesa Redonda;tarde;90;viernes, sábado
 “Testing en cómputo científico y por qué los cohetes se caen”;Pedro Navajas;Conferencia;mediodía;60;viernes
 “Testing en AI y cómo evitar Skynet”;Sarah Connor;Conferencia;mediodía;60;sábado
-“Python para la industria 4.0”;El Fede;Conferencia;mañana;45;jueves
+“Python para la industria 4.0”;El Fede;Conferencia;mañana;45;jueves, viernes
 “Muerte al OOP”;El Barriuc;Conferencia;tarde;60;viernes, sábado
 “Scripts para la vida”;MichBc;Taller;mediodía;45;jueves, sábado
 “¿Deberían todos programar?”;Juanito, Sarah Connor;Mesa Redonda;mañana;90;jueves, viernes, sábado
